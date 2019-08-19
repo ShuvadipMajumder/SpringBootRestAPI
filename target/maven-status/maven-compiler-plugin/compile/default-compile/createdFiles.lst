@@ -1,0 +1,4 @@
+com\shuvadip\SpringBootRestAPI\controller\RestAPIController.class
+com\shuvadip\SpringBootRestAPI\model\Product.class
+com\shuvadip\SpringBootRestAPI\consume\ConsumeWebService.class
+com\shuvadip\SpringBootRestAPI\App.class
